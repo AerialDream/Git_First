@@ -1,8 +1,10 @@
-# 如何创建并push到远程仓库
+# 如何创建分支
 
 ```nginx
-1. git config --global user.name "AerialDream"
-2. git config --global user.email "1368844326@qq.com"
+git branch add_branch # 创建一个名为add_branch的分支
+git branch # 查看分支目录
+git checkout add_branch # 切换到add_branch分支目录下
+
 ```
 
 - 创建用户名和电子邮箱。
